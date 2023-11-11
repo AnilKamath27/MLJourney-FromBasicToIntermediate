@@ -46,7 +46,7 @@
 ### Day 1: Linear Regression
 Explore the basics of linear regression, a foundational algorithm in regression analysis. This project involves predicting sales based on various features.
 
-[Link to Day 1 - Linear Regression](https://github.com/AnilKamath27/OIBSIP/tree/main/Project_Sales_Prediction)
+[Link to Day 1 - Linear Regression](https://github.com/AnilKamath27/MLJourney-FromBasicToIntermediate/tree/main/Linear%20Regression/Day%201%20Sales_Price_Prediction)
 
 ### Day 2: Logistic Regression (Coming Soon)
 
