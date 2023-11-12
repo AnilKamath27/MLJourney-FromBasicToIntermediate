@@ -28,7 +28,7 @@
 
 ## Table of Contents
 - [Day 1: Linear Regression](#day-1-linear-regression)
-- [Day 2: Logistic Regression (Coming Soon)](#day-2-logistic-regression-coming-soon)
+- [Day 2: Logistic Regression](#day-2-logistic-regression)
 - [Day 3: k-Nearest Neighbors (KNN) Regression (Coming Soon)](#day-3-k-nearest-neighbors-knn-regression-coming-soon)
 - [Day 4: Decision Trees Classification (Coming Soon)](#day-4-decision-trees-classification-coming-soon)
 - [Day 5: Random Forest Regression (Coming Soon)](#day-5-random-forest-regression-coming-soon)
@@ -44,11 +44,12 @@
 - [Day 15: Boosting Algorithms (Coming Soon)](#day-15-boosting-algorithms-coming-soon)
 
 ### Day 1: Linear Regression
-Explore the basics of linear regression, a foundational algorithm in regression analysis. This project involves predicting sales based on various features.
+- Explore the basics of linear regression, a foundational algorithm in regression analysis. This project involves predicting sales based on various features.
+- [Link to Day 1 - Linear Regression](https://github.com/AnilKamath27/MLJourney-FromBasicToIntermediate/tree/main/Linear%20Regression/Day%201%20Sales_Price_Prediction)
 
-[Link to Day 1 - Linear Regression](https://github.com/AnilKamath27/MLJourney-FromBasicToIntermediate/tree/main/Linear%20Regression/Day%201%20Sales_Price_Prediction)
-
-### Day 2: Logistic Regression (Coming Soon)
+### Day 2: Logistic Regression
+- Explore the basics of logistic regression, a foundational algorithm in classification analysis. This project involves predicting the likelihood of heart disease based on various health-related features.
+- [Link to Day 2 - Logistic Regression](https://github.com/AnilKamath27/MLJourney-FromBasicToIntermediate/tree/main/Logistic%20Regression/Day%202%20Heart%20Disease%20Prediction)
 
 ### Day 3: k-Nearest Neighbors (KNN) Regression (Coming Soon)
 
