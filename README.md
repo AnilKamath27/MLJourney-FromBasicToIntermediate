@@ -29,7 +29,7 @@
 ## Table of Contents
 - [Day 1: Linear Regression](#day-1-linear-regression)
 - [Day 2: Logistic Regression](#day-2-logistic-regression)
-- [Day 3: k-Nearest Neighbors (KNN) Regression (Coming Soon)](#day-3-k-nearest-neighbors-knn-regression-coming-soon)
+- [Day 3: k-Nearest Neighbors (KNN) Regression](#day-3-k-nearest-neighbors-knn-regression)
 - [Day 4: Decision Trees Classification (Coming Soon)](#day-4-decision-trees-classification-coming-soon)
 - [Day 5: Random Forest Regression (Coming Soon)](#day-5-random-forest-regression-coming-soon)
 - [Day 6: Support Vector Machines (SVM) Classification (Coming Soon)](#day-6-support-vector-machines-svm-classification-coming-soon)
@@ -51,7 +51,9 @@
 - Explore the basics of logistic regression, a foundational algorithm in classification analysis. This project involves predicting the likelihood of heart disease based on various health-related features.
 - [Link to Day 2 - Logistic Regression](https://github.com/AnilKamath27/MLJourney-FromBasicToIntermediate/tree/main/Logistic%20Regression/Day%202%20Heart%20Disease%20Prediction)
 
-### Day 3: k-Nearest Neighbors (KNN) Regression (Coming Soon)
+### Day 3: k-Nearest Neighbors (KNN) Regression
+- Navigating the dynamic world of real estate predictions using machine learning. Explore the nuances of regression and property valuation.
+- [Link to Day 3 - k-Nearest Neighbors (KNN) Regression](https://github.com/AnilKamath27/MLJourney-FromBasicToIntermediate/tree/main/k-Nearest%20Neighbors%20(KNN-regression)/Day%203%20House%20price%20prediction)
 
 ### Day 4: Decision Trees Classification (Coming Soon)
 
